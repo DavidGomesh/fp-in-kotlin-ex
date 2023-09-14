@@ -1,2 +1,2 @@
 # fp-kotlin
- Funcional Programming in Kotlin
+ Functional Programming in Kotlin
