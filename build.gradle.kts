@@ -16,6 +16,9 @@ dependencies {
     testImplementation("org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.5")
     implementation("io.arrow-kt:arrow-core-data:0.12.1")
     implementation("io.arrow-kt:arrow-fx:0.12.1")
+    implementation("io.arrow-kt:arrow-mtl:0.11.0")
+    testImplementation("io.arrow-kt:arrow-syntax:0.12.1")
+
 }
 
 tasks.test {
